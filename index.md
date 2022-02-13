@@ -3,9 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
-    <style>
-        *{margin:0;padding:0;font-size:40px;color:#ff0000;text-align:center;letter-spacing:5px;}
-    </style>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <div>欢迎大家！我是王欢欢。</div>
